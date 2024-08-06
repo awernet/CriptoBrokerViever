@@ -1,0 +1,6 @@
+C:\Users\Awernet\Desktop\projects\CriptoBrokerViewer\WorkerSpace\bin\Debug\WorkerSpace.dll
+C:\Users\Awernet\Desktop\projects\CriptoBrokerViewer\WorkerSpace\bin\Debug\WorkerSpace.pdb
+C:\Users\Awernet\Desktop\projects\CriptoBrokerViewer\WorkerSpace\obj\Debug\WorkerSpace.csproj.AssemblyReference.cache
+C:\Users\Awernet\Desktop\projects\CriptoBrokerViewer\WorkerSpace\obj\Debug\WorkerSpace.csproj.CoreCompileInputs.cache
+C:\Users\Awernet\Desktop\projects\CriptoBrokerViewer\WorkerSpace\obj\Debug\WorkerSpace.dll
+C:\Users\Awernet\Desktop\projects\CriptoBrokerViewer\WorkerSpace\obj\Debug\WorkerSpace.pdb

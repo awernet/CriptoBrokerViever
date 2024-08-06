@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\criptobrokerviewer\\indicators\\rsiindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\indicators\\rsiindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\criptobrokerviewer\\api\\mexcspotapiv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\api\\mexcspotapiv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\criptobrokerviewer\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\criptobrokerviewer\\coinsdatatask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\coinsdatatask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|c:\\users\\awernet\\desktop\\projects\\criptobrokerviewer\\criptobrokerviewer\\jsonclasses\\futureresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\jsonclasses\\futureresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\criptobrokerviewer\\api\\mexcapifutures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\api\\mexcapifutures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\criptobrokerviewer\\telegrambot\\telegramsendler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\telegrambot\\telegramsendler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\criptobrokerviewer\\api\\mexcapispotv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\api\\mexcapispotv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\criptobrokerviewer\\candledrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\candledrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\criptobrokerviewer\\jsonclasses\\markettickertemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\jsonclasses\\markettickertemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\criptobrokerviewer\\jsonclasses\\historicaltemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\jsonclasses\\historicaltemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\criptobrokerviewer\\models\\apiresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\models\\apiresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\criptobrokerviewer\\api\\mexcapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941395BA-C9CE-4149-9AB6-63EF93469E39}|CriptoBrokerViewer\\CriptoBrokerViewer.csproj|solutionrelative:criptobrokerviewer\\api\\mexcapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MexcApiFutures.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Api\\MexcApiFutures.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\Api\\MexcApiFutures.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Api\\MexcApiFutures.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\Api\\MexcApiFutures.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADgvxYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:25:43.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoinsDataTask.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\CoinsDataTask.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\CoinsDataTask.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\CoinsDataTask.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\CoinsDataTask.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:41:51.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MexcSpotApiV3.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Api\\MexcSpotApiV3.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\Api\\MexcSpotApiV3.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Api\\MexcSpotApiV3.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\Api\\MexcSpotApiV3.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T00:14:23.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MexcApiSpotV2.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Api\\MexcApiSpotV2.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\Api\\MexcApiSpotV2.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Api\\MexcApiSpotV2.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\Api\\MexcApiSpotV2.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:25:16.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TelegramSendler.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\TelegramBot\\TelegramSendler.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\TelegramBot\\TelegramSendler.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\TelegramBot\\TelegramSendler.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\TelegramBot\\TelegramSendler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:36:20.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Main.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\Main.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Main.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\Main.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:08:11.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MarketTickerTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\JsonClasses\\MarketTickerTemplate.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\JsonClasses\\MarketTickerTemplate.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\JsonClasses\\MarketTickerTemplate.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\JsonClasses\\MarketTickerTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:24:20.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MexcApi.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Api\\MexcApi.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\Api\\MexcApi.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Api\\MexcApi.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\Api\\MexcApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:29:18.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FutureResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\JsonClasses\\FutureResponse.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\JsonClasses\\FutureResponse.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\JsonClasses\\FutureResponse.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\JsonClasses\\FutureResponse.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:42:38.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RsiIndicator.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Indicators\\RsiIndicator.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\Indicators\\RsiIndicator.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Indicators\\RsiIndicator.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\Indicators\\RsiIndicator.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:19:19.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CandleDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\CandleDrawer.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\CandleDrawer.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\CandleDrawer.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\CandleDrawer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:46:47.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HistoricalTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\JsonClasses\\HistoricalTemplate.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\JsonClasses\\HistoricalTemplate.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\JsonClasses\\HistoricalTemplate.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\JsonClasses\\HistoricalTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:24:11.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Models\\ApiResponseModel.cs",
+              "RelativeDocumentMoniker": "CriptoBrokerViewer\\Models\\ApiResponseModel.cs",
+              "ToolTip": "C:\\Users\\Awernet\\Desktop\\projects\\CriptoBrokerViewer\\CriptoBrokerViewer\\Models\\ApiResponseModel.cs",
+              "RelativeToolTip": "CriptoBrokerViewer\\Models\\ApiResponseModel.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwHgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:38:20.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
