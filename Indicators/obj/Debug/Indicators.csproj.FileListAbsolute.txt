@@ -1,0 +1,13 @@
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\bin\Debug\Indicators.dll
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\bin\Debug\Indicators.pdb
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\bin\Debug\MexcApi.dll
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\bin\Debug\Loger.dll
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\bin\Debug\MexcApi.pdb
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\bin\Debug\Loger.pdb
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\obj\Debug\Indicators.csproj.AssemblyReference.cache
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\obj\Debug\Indicators.csproj.CoreCompileInputs.cache
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\obj\Debug\Indicators.csproj.Up2Date
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\obj\Debug\Indicators.dll
+C:\Users\Awernet\source\repos\CriptoTraderHelper\Indicators\obj\Debug\Indicators.pdb

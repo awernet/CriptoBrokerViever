@@ -1,0 +1,11 @@
+C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\bin\Debug\MexcApi.dll
+C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\bin\Debug\MexcApi.pdb
+C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\obj\Debug\MexcApi.csproj.AssemblyReference.cache
+C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\obj\Debug\MexcApi.csproj.CoreCompileInputs.cache
+C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\obj\Debug\MexcApi.dll
+C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\obj\Debug\MexcApi.pdb
+C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\bin\Debug\Loger.dll
+C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\bin\Debug\Loger.pdb
+C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\obj\Debug\MexcApi.csproj.Up2Date
