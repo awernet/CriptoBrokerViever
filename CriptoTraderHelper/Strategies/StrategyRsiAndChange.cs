@@ -35,14 +35,12 @@ namespace CriptoTraderHelper.Strategies
 
             if (contract.maxLeverage > 74)
             {
-                if (IsValidRSIRate( rsi, riseFallRate))
+                if (IsValidRSIRate(rsi, riseFallRate))
                 {
                     //Рисуем и сохраняем график
                     Thread thread = new Thread(_ =>
                     {
-                        CandleStickAndVolumeSeries drawer = new CandleStickAndVolumeSeries();
-                        var plotModel = drawer.Draw(candles);
-                        drawer.SavePlotAsImage(plotModel, $"images/{contract.baseCoin}{contract.quoteCoin}.png");
+                        OxyplotDrawerCandles oxyplotDrawerCandles = new OxyplotDrawerCandles(candles, $"images/{contract.baseCoin}{contract.quoteCoin}.png");
                     });
                     thread.SetApartmentState(ApartmentState.STA);
                     thread.Start();
@@ -55,7 +53,7 @@ namespace CriptoTraderHelper.Strategies
                                 $"<b>Leverage:</b> {contract.maxLeverage}x\n" +
                                 $"<b>volume24:</b> {StringConverter.ConvertNumberFromStringWithK(contractTicker.volume24)}\n";
 
-                    Events.InvokeMessageToTelegram(message, $"{contract.baseCoin}{contract.quoteCoin}");
+                    //Events.InvokeMessageToTelegram(message, $"{contract.baseCoin}{contract.quoteCoin}");
                     Logger.Log(Loger.Enums.LogType.Warning, $"The message about {contract.baseCoin}{contract.quoteCoin} has been queued!");
                 }
                 else
@@ -66,8 +64,7 @@ namespace CriptoTraderHelper.Strategies
         private bool IsValidRSIRate(decimal rsi, decimal riseFallRate)
         {
             bool isValidRSI = rsi < 8 || rsi > 80;
-            bool isValidRiseFallRate = riseFallRate < -8 || riseFallRate > 8;
-
+            bool isValidRiseFallRate = riseFallRate < -8 | riseFallRate > 8;
             return isValidRSI && isValidRiseFallRate;
         }
     }
