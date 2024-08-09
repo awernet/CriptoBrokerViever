@@ -54,10 +54,10 @@ namespace CriptoTraderHelper.Strategies
                                 $"<b>volume24:</b> {StringConverter.ConvertNumberFromStringWithK(contractTicker.volume24)}\n";
 
                     //Events.InvokeMessageToTelegram(message, $"{contract.baseCoin}{contract.quoteCoin}");
-                    Logger.Log(Loger.Enums.LogType.Warning, $"The message about {contract.baseCoin}{contract.quoteCoin} has been queued!");
+                    LogVisualisator.Log(Loger.Enums.LogType.Warning, $"The message about {contract.baseCoin}{contract.quoteCoin} has been queued!");
                 }
                 else
-                    Logger.Log(Loger.Enums.LogType.Info,$"{contract.symbol} rsi:{rsi} maxLeverage {contract.maxLeverage} riseFallRate: {riseFallRate}% skip...");
+                    LogVisualisator.Log(Loger.Enums.LogType.Info,$"{contract.symbol} rsi:{rsi} maxLeverage {contract.maxLeverage} riseFallRate: {riseFallRate}% skip...");
             }
         }
 

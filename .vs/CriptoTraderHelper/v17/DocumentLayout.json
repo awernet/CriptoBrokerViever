@@ -7,15 +7,19 @@
       "RelativeMoniker": "D:0:0:{9EAF7AEE-1260-417D-8D8A-0EDE83076D2C}|CriptoTraderHelper\\CriptoTraderHelper.csproj|solutionrelative:criptotraderhelper\\strategies\\strategyrsiandchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EAF7AEE-1260-417D-8D8A-0EDE83076D2C}|CriptoTraderHelper\\CriptoTraderHelper.csproj|c:\\git\\criptobrokerviever\\criptotraderhelper\\tools\\oxyplotdrawercandles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84713E2D-6C98-4D1D-A88F-76E2F068B21F}|Loger\\Loger.csproj|c:\\git\\criptobrokerviever\\loger\\logvisualisator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84713E2D-6C98-4D1D-A88F-76E2F068B21F}|Loger\\Loger.csproj|solutionrelative:loger\\logvisualisator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAF7AEE-1260-417D-8D8A-0EDE83076D2C}|CriptoTraderHelper\\CriptoTraderHelper.csproj|C:\\Git\\CriptoBrokerViever\\criptotraderhelper\\tools\\oxyplotdrawercandles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EAF7AEE-1260-417D-8D8A-0EDE83076D2C}|CriptoTraderHelper\\CriptoTraderHelper.csproj|solutionrelative:criptotraderhelper\\tools\\oxyplotdrawercandles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EAF7AEE-1260-417D-8D8A-0EDE83076D2C}|CriptoTraderHelper\\CriptoTraderHelper.csproj|c:\\git\\criptobrokerviever\\criptotraderhelper\\tools\\drawergraphs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EAF7AEE-1260-417D-8D8A-0EDE83076D2C}|CriptoTraderHelper\\CriptoTraderHelper.csproj|C:\\Git\\CriptoBrokerViever\\criptotraderhelper\\tools\\drawergraphs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EAF7AEE-1260-417D-8D8A-0EDE83076D2C}|CriptoTraderHelper\\CriptoTraderHelper.csproj|solutionrelative:criptotraderhelper\\tools\\drawergraphs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EAF7AEE-1260-417D-8D8A-0EDE83076D2C}|CriptoTraderHelper\\CriptoTraderHelper.csproj|c:\\git\\criptobrokerviever\\criptotraderhelper\\tools\\candlestickandvolumeseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EAF7AEE-1260-417D-8D8A-0EDE83076D2C}|CriptoTraderHelper\\CriptoTraderHelper.csproj|C:\\Git\\CriptoBrokerViever\\criptotraderhelper\\tools\\candlestickandvolumeseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EAF7AEE-1260-417D-8D8A-0EDE83076D2C}|CriptoTraderHelper\\CriptoTraderHelper.csproj|solutionrelative:criptotraderhelper\\tools\\candlestickandvolumeseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "LogVisualisator.cs",
+              "DocumentMoniker": "C:\\Git\\CriptoBrokerViever\\Loger\\LogVisualisator.cs",
+              "RelativeDocumentMoniker": "Loger\\LogVisualisator.cs",
+              "ToolTip": "C:\\Git\\CriptoBrokerViever\\Loger\\LogVisualisator.cs",
+              "RelativeToolTip": "Loger\\LogVisualisator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:23:39.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DrawerGraphs.cs",
               "DocumentMoniker": "C:\\Git\\CriptoBrokerViever\\CriptoTraderHelper\\Tools\\DrawerGraphs.cs",
               "RelativeDocumentMoniker": "CriptoTraderHelper\\Tools\\DrawerGraphs.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CandleStickAndVolumeSeries.cs",
               "DocumentMoniker": "C:\\Git\\CriptoBrokerViever\\CriptoTraderHelper\\Tools\\CandleStickAndVolumeSeries.cs",
               "RelativeDocumentMoniker": "CriptoTraderHelper\\Tools\\CandleStickAndVolumeSeries.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OxyplotDrawerCandles.cs",
               "DocumentMoniker": "C:\\Git\\CriptoBrokerViever\\CriptoTraderHelper\\Tools\\OxyplotDrawerCandles.cs",
               "RelativeDocumentMoniker": "CriptoTraderHelper\\Tools\\OxyplotDrawerCandles.cs",

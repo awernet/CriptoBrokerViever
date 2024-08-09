@@ -52,7 +52,7 @@ namespace MexcApi.Api
             }
             catch (Exception ex)
             {
-                Logger.Log(Loger.Enums.LogType.Error, ex.Message);
+                LogVisualisator.Log(Loger.Enums.LogType.Error, ex.Message);
             }
 
             return candles;

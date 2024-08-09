@@ -3,7 +3,7 @@ using System;
 
 namespace Loger
 {
-    public class Logger
+    public class LogVisualisator
     {
         public static void Log(LogType type, string message)
         {

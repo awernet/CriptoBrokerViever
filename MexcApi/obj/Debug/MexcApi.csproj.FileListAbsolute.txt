@@ -9,3 +9,14 @@ C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\bin\Debug\Newtonsoft.Js
 C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\bin\Debug\Loger.pdb
 C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Awernet\source\repos\CriptoTraderHelper\MexcApi\obj\Debug\MexcApi.csproj.Up2Date
+C:\Git\CriptoBrokerViever\MexcApi\bin\Debug\MexcApi.dll
+C:\Git\CriptoBrokerViever\MexcApi\bin\Debug\MexcApi.pdb
+C:\Git\CriptoBrokerViever\MexcApi\bin\Debug\Loger.dll
+C:\Git\CriptoBrokerViever\MexcApi\bin\Debug\Newtonsoft.Json.dll
+C:\Git\CriptoBrokerViever\MexcApi\bin\Debug\Loger.pdb
+C:\Git\CriptoBrokerViever\MexcApi\bin\Debug\Newtonsoft.Json.xml
+C:\Git\CriptoBrokerViever\MexcApi\obj\Debug\MexcApi.csproj.AssemblyReference.cache
+C:\Git\CriptoBrokerViever\MexcApi\obj\Debug\MexcApi.csproj.CoreCompileInputs.cache
+C:\Git\CriptoBrokerViever\MexcApi\obj\Debug\MexcApi.csproj.Up2Date
+C:\Git\CriptoBrokerViever\MexcApi\obj\Debug\MexcApi.dll
+C:\Git\CriptoBrokerViever\MexcApi\obj\Debug\MexcApi.pdb

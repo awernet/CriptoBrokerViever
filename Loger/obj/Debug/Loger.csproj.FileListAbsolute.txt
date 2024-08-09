@@ -4,3 +4,9 @@ C:\Users\Awernet\source\repos\CriptoTraderHelper\Loger\obj\Debug\Loger.csproj.As
 C:\Users\Awernet\source\repos\CriptoTraderHelper\Loger\obj\Debug\Loger.csproj.CoreCompileInputs.cache
 C:\Users\Awernet\source\repos\CriptoTraderHelper\Loger\obj\Debug\Loger.dll
 C:\Users\Awernet\source\repos\CriptoTraderHelper\Loger\obj\Debug\Loger.pdb
+C:\Git\CriptoBrokerViever\Loger\bin\Debug\Loger.dll
+C:\Git\CriptoBrokerViever\Loger\bin\Debug\Loger.pdb
+C:\Git\CriptoBrokerViever\Loger\obj\Debug\Loger.csproj.AssemblyReference.cache
+C:\Git\CriptoBrokerViever\Loger\obj\Debug\Loger.csproj.CoreCompileInputs.cache
+C:\Git\CriptoBrokerViever\Loger\obj\Debug\Loger.dll
+C:\Git\CriptoBrokerViever\Loger\obj\Debug\Loger.pdb

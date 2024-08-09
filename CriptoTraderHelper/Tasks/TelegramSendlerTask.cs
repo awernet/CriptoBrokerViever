@@ -46,7 +46,7 @@ namespace CriptoTraderHelper.Tasks
                         parseMode: ParseMode.Html);
                 }
 
-                Logger.Log(Loger.Enums.LogType.Warning, "Message Send!");
+                LogVisualisator.Log(Loger.Enums.LogType.Warning, "Message Send!");
             }
 
             await Task.Delay(2500);
